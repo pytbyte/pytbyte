@@ -1,19 +1,6 @@
-### Hi there 👋
-
-<!--
-**pytbyte/pytbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-I'm Kamau Macharia,
-
-- I am a Python Backend Developer currently at ALX Software Engineering Program .
-
- I subscribe to the growth mindset and Self Improvment towards creating Futuristic Solutions through Software Engineering 
- and Development.
 
 ```javascript
-const anmol = {
+Kamau Macharia = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],

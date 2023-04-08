@@ -2,22 +2,26 @@
 ```javascript
 Kamau Macharia = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C"],
+    askMeAbout: ["API dev", "tech", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            Framwork: ["Flask"],
+            
         },
-        mobileApp: {
-            native: ["Android Development"]
+        
+        frontEnd {
+            Technology : ["HTML","CSS", "JINJA"],
+            
         },
+       
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: [ "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications","Microservice Artitecture"],
+    currentFocus: "ALX SOFTWARE ENGINEERING PROGRAM",
+   
 };
 ```
 

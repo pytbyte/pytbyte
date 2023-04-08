@@ -2,16 +2,11 @@
 ```javascript
 Kamau Macharia = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C"],
+    code: ["HTML","CSS", "JINJA","Javascript", "Python", "C"],
     askMeAbout: ["API dev", "tech", "photography"],
     technologies: {
         backEnd: {
             Framwork: ["Flask"],
-            
-        },
-        
-        frontEnd {
-            Technology : ["HTML","CSS", "JINJA"],
             
         },
        

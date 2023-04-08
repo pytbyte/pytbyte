@@ -12,18 +12,25 @@ I'm Kamau Macharia,
  I subscribe to the growth mindset and Self Improvment towards creating Futuristic Solutions through Software Engineering 
  and Development.
 
-- 💬 Ask me about Python Microservice APIS, AWS and the weather ;)
-
-🔭 I’m currently working on MyBLOCK A Python Flask MICROSERVICE API on AWS
-   
- 
- 
- 
- - 🌱 I’m currently learning SOFTWARE ENGINEERING At ALX Software Engineering Program.
-
- - 🤔 I’m looking for help with Understanding C Dynamic Memory Alocation.
-
- - 📫 How to reach me:  heretolearn1@gmail.com
-
- ⚡ Fun fact: facts are fun. 
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 

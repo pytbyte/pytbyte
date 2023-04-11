@@ -14,8 +14,8 @@ Kamau Macharia = {
         databases: [ "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
-    architecture: ["Microservice Artitecture", "Serverless Architecture", "Single page applications"]
-    currentFocus: "ALX SOFTWARE ENGINEERING PROGRAM",
+    architecture: ["Microservice Artitecture", "Serverless Architecture", "Single page applications"],
+    currentFocus: "ALX SOFTWARE ENGINEERING PROGRAM"
    
 };
 ```

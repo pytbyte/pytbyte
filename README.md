@@ -3,8 +3,7 @@
 Kamau Macharia = {
     pronouns: "He" | "Him",
     
-    Skill: ["C", "Python", "Flask", "MySQL", "Redis", "React", "AWS"],
-    currentFocus: "ALX SOFTWARE ENGINEERING PROGRAM"
+    Skill: ["C", "Python", "Flask", "MySQL", "Redis", "React", "AWS"]
    
 };
 ```
